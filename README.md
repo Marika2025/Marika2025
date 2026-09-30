@@ -32,7 +32,13 @@ I have previous experience in Business Analysis and Database/Data Analysis, incl
 
 ### 📊 Portfolio Projects
 
-I am currently building my data analytics portfolio. Projects demonstrating Python, SQL, Power BI, Excel, and Machine Learning will be added here.
+#### COVID-19 Mobility Analysis
+
+Analysis and visualisation of UK mobility patterns during the COVID-19 pandemic using Python and Google Community Mobility data.
+
+**Skills demonstrated:** Python, Pandas, NumPy, data cleaning, exploratory data analysis, time-series analysis and data visualisation.
+
+👉 [View COVID-19 Mobility Analysis Project](https://github.com/Marika2025/COVID19-Mobility-Analysis)
 
 ### 📫 Let's Connect
 
